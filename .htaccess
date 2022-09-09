@@ -1,0 +1,4 @@
+deny from all
+<Files index.html>
+allow from all
+</Files>
